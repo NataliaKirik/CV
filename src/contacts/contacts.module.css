@@ -1,0 +1,42 @@
+.contactBlock {
+    background-color: #fcd9e7;
+    min-height: 100vh;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    background-color: #f6f6f6;
+}
+
+
+.form {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 60%;
+    background-color: #dedcdc;
+    margin-bottom: 10px;
+}
+
+.form textarea {
+    height: 200px;
+}
+
+.form textarea, input {
+    padding: 5px;
+    margin: 10px;
+}
+
+.button {
+    width: 120px;
+    height: 40px;
+    font-size: large;
+}
+

@@ -1,0 +1,18 @@
+.skill {
+    width: 250px;
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.img {
+    width: 60px;
+    height: 60px;
+    background-color: #b0b0b0;
+}
+
+.description {
+
+}
